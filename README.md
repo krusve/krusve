@@ -1,4 +1,16 @@
-### Hi there 👋
+# 👋 About me:
+<hr>
+Just a 20-something cyber security enthusiast diving into the world of everything IT.
+Am a big fan of TryHackMe, playing around with Raspberry Pi, late night coding and anything that catches my interest (obviously).
+
+:computer: Tech Stck:
+<hr>
+
+:calling: Socials:
+<hr>
+
+
+
 
 <!--
 **krusve/krusve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
