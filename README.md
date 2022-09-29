@@ -1,10 +1,8 @@
 # 👋 About me:
-<hr>
 Just a 20-something cyber security enthusiast diving into the world of everything IT.
 Am a big fan of TryHackMe, playing around with Raspberry Pi, late night coding and anything that catches my interest (obviously).
 
 # :computer: Tech Stack:
-<hr>
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?flat&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?flat&logo=postgresql&logoColor=white" />
@@ -25,13 +23,13 @@ Am a big fan of TryHackMe, playing around with Raspberry Pi, late night coding a
 </p>
 
 # :calling: Socials and Profiles:
-<hr>
 <p align="center">
 <a target=_blank"href="https://www.linkedin.com/in/krusve"/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target=_blank"href="https://discord.com/channels/HansVomLandeHintermMeer#0395"/">  <img src="https://img.shields.io/badge/%3CMy Discord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.com/channels/HansVomLandeHintermMeer#0395"/">  <img src="https://img.shields.io/badge/%3CMy Channel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="mailto:krusve@outlook.com"/">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </p>
 
-
+<hr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krusve&theme=vue" />
 
 
