@@ -22,11 +22,19 @@ Am a big fan of TryHackMe, playing around with Raspberry Pi, late night coding a
 <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white" />
 </p>
 
-# :calling: Socials and Profiles:
+# :mag: Socials and Profiles:
 <p align="center">
 <a target=_blank"href="https://www.linkedin.com/in/krusve"/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.com/channels/HansVomLandeHintermMeer#0395"/">  <img src="https://img.shields.io/badge/%3CMy Channel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-<a href="mailto:krusve@outlook.com"/">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<a href="https://discord.com/channels/HansVomLandeHintermMeer#0395"/">  <img src="https://img.shields.io/badge/%3CMy Channel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/svenKru"/">  <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+</p>
+
+
+# :calling: Contact
+
+<p align="center">
+<a href="mailto:krusve@outlook.com"/">  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://keyserver2.pgp.com/vkd/SubmitSearch.event?&&SearchCriteria=krusve%40outlook.com"/"> <img src="https://img.shields.io/badge/krusve-pgp--key-blue?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <hr>
