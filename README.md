@@ -26,7 +26,7 @@ Other than that I spend a lot of time in the gym or doing sports, with my nose i
 
 # :mag: Socials and Profiles:
 <p align="center">
-<a target=_blank"href="https://www.linkedin.com/in/krusve"/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target=_blank" href="https://www.linkedin.com/in/krusve"/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discord.com/channels/HansVomLandeHintermMeer#0395"/">  <img src="https://img.shields.io/badge/%3CMy Channel%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/svenKru"/">  <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 </p>
