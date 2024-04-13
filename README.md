@@ -6,9 +6,6 @@ Other than that I spend a lot of time in the gym or doing sports, with my nose i
 
 # :computer: Tech Stack:
 <p>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?flat&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?flat&logo=python&logoColor=blue" />
