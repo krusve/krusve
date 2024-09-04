@@ -32,8 +32,5 @@ Big fan of CTFs, Cryptography, playing around with Raspberry Pis, late night cod
 <a href="https://keyserver2.pgp.com/vkd/SubmitSearch.event?&&SearchCriteria=krusve%40outlook.com"/"> <img src="https://img.shields.io/badge/krusve-pgp--key-blue?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
-<hr>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krusve&theme=vue" />
-
 
 
