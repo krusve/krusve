@@ -1,8 +1,6 @@
 # 👋 About me:
-Just a 20-something cyber security enthusiast diving into the world of everything IT.
-Am a big fan of TryHackMe, playing around with Raspberry Pi, late night coding and anything that catches my interest (obviously).
-
-Other than that I spend a lot of time in the gym or doing sports, with my nose in a book or gaming.
+Cyber security enthusiast diving into the world of everything IT and IT-Security.
+Big fan of CTFs, Cryptography, playing around with Raspberry Pis, late night coding and anything that catches my interest (obviously).
 
 # :computer: Tech Stack:
 <p>
