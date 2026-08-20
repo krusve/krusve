@@ -1,4 +1,4 @@
-# 👋 About me: Sven-Christian Kruse
+# 👋 About me
 Cyber security enthusiast diving into the world of everything IT and IT-Security.
 
 # :mag: Socials and Profiles:
